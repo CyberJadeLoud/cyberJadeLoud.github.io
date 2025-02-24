@@ -1,26 +1,25 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Jade Loud",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/cyberJadeLoud.png",
+    "email": "jadeloud16@gmail.com",
+    "phone": "818-795-9347",
+    "website": "https://cyberJadeLoud.github.io",
+    "summary": "I am studying for a certificate in web developemnt at Sullivan University, I will be graduating next month!",
+    "location": { "address": "", "postalCode": "95123", "city": "San Jose", "countryCode": "USA", "region": "San Francisco Bay Area" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "cyberJadeLoud", "url": "https://github.com/CyberJadeLoud" },
+      { "network": "linkedin", "username": "Jade Loud", "url": "https://www.linkedin.com/in/jade-loud-678699156/" },
+      { "network": "instagram", "username": "Jade Loud", "url": "http://instagram.com/modify.designs" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Graphic Design" },
+    { "name": "Photoshop" },
+    { "name": "Video Editing" },
+    { "name": "Digitial Creation" },
+    { "name": "Photography" }
   ],
   "skills": [
     {

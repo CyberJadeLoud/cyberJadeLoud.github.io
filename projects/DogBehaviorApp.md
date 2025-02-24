@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/DogBehaviorApp.png
 title: "DogBehaviorApp"
 date: 2025-18-02
 published: true

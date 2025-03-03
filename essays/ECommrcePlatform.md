@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "E-Commerce Platforms"
-date: 2025-09-1
+date: 2024-09-1
 published: true
 labels:
   - Research

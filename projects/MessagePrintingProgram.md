@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/program.png
 title: "MeassagePrintingProgram"
 date: 2024-09-03
 published: true
